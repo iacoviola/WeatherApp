@@ -4,8 +4,16 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
+    <string name="search">Search</string>
     <string name="previous">Previous</string>
+    <string name="ins_city">Insert City</string>
+    <string name="city">City: </string>
+    <string name="country">Country: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="sunset">Sunset: </string>
+    <string name="sunrise">Sunrise: </string>
+    <string name="title">GetWeather</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
